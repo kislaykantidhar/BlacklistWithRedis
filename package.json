@@ -1,0 +1,24 @@
+{
+  "name": "blacklistwithredis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kislay Kanti Dhar",
+  "license": "ISC",
+  "dependencies": {
+    "jwt-blacklist": "^0.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kislaykantidhar/BlacklistWithRedis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kislaykantidhar/BlacklistWithRedis/issues"
+  },
+  "homepage": "https://github.com/kislaykantidhar/BlacklistWithRedis#readme",
+  "description": ""
+}
